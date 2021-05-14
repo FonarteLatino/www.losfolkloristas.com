@@ -1,0 +1,107 @@
+Return-Path: <>
+X-Original-To: folkusr_2014@brunswick.dreamhost.com
+Delivered-To: folkusr_2014@brunswick.dreamhost.com
+Received: from iad1-shared-relay1.dreamhost.com (iad1-shared-relay1.dreamhost.com [208.113.157.50])
+	by brunswick.dreamhost.com (Postfix) with ESMTP id 03CBF2E0834
+	for <folkusr_2014@brunswick.dreamhost.com>; Sat, 14 Mar 2015 23:41:43 -0700 (PDT)
+Received: by iad1-shared-relay1.dreamhost.com (Postfix)
+	id C7247B40086; Sat, 14 Mar 2015 23:41:43 -0700 (PDT)
+Date: Sat, 14 Mar 2015 23:41:43 -0700 (PDT)
+From: MAILER-DAEMON@iad1-shared-relay1.dreamhost.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: folkusr_2014@brunswick.dreamhost.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="269D9B40079.1426401703/iad1-shared-relay1.dreamhost.com"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20150315064143.C7247B40086@iad1-shared-relay1.dreamhost.com>
+
+This is a MIME-encapsulated message.
+
+--269D9B40079.1426401703/iad1-shared-relay1.dreamhost.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host iad1-shared-relay1.dreamhost.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our 
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+		DreamHost Email Support
+
+<email@address.com>: host spam04.affinitypath.com[216.129.105.34] said: 550
+    Blocked (in reply to RCPT TO command)
+
+--269D9B40079.1426401703/iad1-shared-relay1.dreamhost.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; iad1-shared-relay1.dreamhost.com
+X-Postfix-Queue-ID: 269D9B40079
+X-Postfix-Sender: rfc822; folkusr_2014@brunswick.dreamhost.com
+Arrival-Date: Sat, 14 Mar 2015 23:41:21 -0700 (PDT)
+
+Final-Recipient: rfc822; email@address.com
+Original-Recipient: rfc822;email@address.com
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; spam04.affinitypath.com
+Diagnostic-Code: smtp; 550 Blocked
+
+--269D9B40079.1426401703/iad1-shared-relay1.dreamhost.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <folkusr_2014@brunswick.dreamhost.com>
+Received: from brunswick.dreamhost.com (apache2-cabo.nash.dreamhost.com [208.113.153.215])
+	by iad1-shared-relay1.dreamhost.com (Postfix) with ESMTP id 269D9B40079
+	for <email@address.com>; Sat, 14 Mar 2015 23:41:21 -0700 (PDT)
+Received: by brunswick.dreamhost.com (Postfix, from userid 14288913)
+	id 1E8552E0871; Sat, 14 Mar 2015 23:41:21 -0700 (PDT)
+To: John Doe <email@address.com>
+Subject: Message from Gabriel Hernandez - Contact Form
+X-PHP-Originating-Script: 14288913:class-phpmailer.php
+Date: Sun, 15 Mar 2015 06:41:21 +0000
+From: Gabriel Hernandez <Chilitoconpapas@hotmail.com>
+Message-ID: <864003ac745b6fa0716fbf3c357d73c3@www.losfolkloristas.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	<html xmlns="http://www.w3.org/1999/xhtml">
+	<head></head>
+	<body>
+	<table>
+		<tr><td style="padding-right:30px; font-weight:bold;">Name</td><td>Gabriel Hernandez</td></tr>
+		<tr><td style="padding-right:30px; font-weight:bold;">Email</td><td>Chilitoconpapas@hotmail.com</td></tr>
+		<tr><td style="padding-right:30px; font-weight:bold;">Comment</td><td>Saludos desde Hayward California,un pueblecito que forma la parte Este de la Bahia de San Francisco, California.<br />
+Esta noche tuve el placer de escucharlos en un programa llamado el Timpano, transmitido por Canal Once del IPN en Mexico.<br />
+Gracias por conservar la musica folklorica Latinoamericana.<br />
+Hay una Riqueza inmenza que ustedes estan ensenen do a nuevos generaciones.<br />
+Saludos Gabriel Hernandez.</td></tr>
+	</table>
+	</body>
+	</html>
+
+
+--269D9B40079.1426401703/iad1-shared-relay1.dreamhost.com--

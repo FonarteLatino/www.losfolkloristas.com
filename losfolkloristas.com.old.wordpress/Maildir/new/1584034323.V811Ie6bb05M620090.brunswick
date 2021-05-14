@@ -1,0 +1,99 @@
+Return-Path: <>
+X-Original-To: folkusr_2014@brunswick.dreamhost.com
+Delivered-To: folkusr_2014@brunswick.dreamhost.com
+Received: by brunswick.dreamhost.com (Postfix)
+	id 9671F122B; Thu, 12 Mar 2020 10:32:03 -0700 (PDT)
+Date: Thu, 12 Mar 2020 10:32:03 -0700 (PDT)
+From: MAILER-DAEMON@brunswick.dreamhost.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: folkusr_2014@brunswick.dreamhost.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="62EFA100F.1584034323/brunswick.dreamhost.com"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20200312173203.9671F122B@brunswick.dreamhost.com>
+
+This is a MIME-encapsulated message.
+
+--62EFA100F.1584034323/brunswick.dreamhost.com
+Content-Description: Notification
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+This is the mail system at host brunswick.dreamhost.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+                DreamHost Email Support
+
+<email@address.com>: host iad1-shared-relay1.dreamhost.com[208.113.157.50]
+    said: 550 5.7.1 Sender domain not allowed. Please read:
+    http://dhurl.org/20b D21 (in reply to end of DATA command)
+
+--62EFA100F.1584034323/brunswick.dreamhost.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; brunswick.dreamhost.com
+X-Postfix-Queue-ID: 62EFA100F
+X-Postfix-Sender: rfc822; folkusr_2014@brunswick.dreamhost.com
+Arrival-Date: Thu, 12 Mar 2020 10:32:03 -0700 (PDT)
+
+Final-Recipient: rfc822; email@address.com
+Original-Recipient: rfc822;email@address.com
+Action: failed
+Status: 5.7.1
+Remote-MTA: dns; iad1-shared-relay1.dreamhost.com
+Diagnostic-Code: smtp; 550 5.7.1 Sender domain not allowed. Please read:
+    http://dhurl.org/20b D21
+
+--62EFA100F.1584034323/brunswick.dreamhost.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <folkusr_2014@brunswick.dreamhost.com>
+Received: by brunswick.dreamhost.com (Postfix, from userid 14288913)
+	id 62EFA100F; Thu, 12 Mar 2020 10:32:03 -0700 (PDT)
+To: John Doe <email@address.com>
+Subject: =?iso-8859-1?Q?Message_from_H=C3=A9ctor_Arcos__-_Contact_Form?=
+X-PHP-Originating-Script: 14288913:class-phpmailer.php
+Date: Thu, 12 Mar 2020 17:32:03 +0000
+From: =?iso-8859-1?Q?H=C3=A9ctor_Arcos?= <arpahector@gmail.com>
+Message-ID: <b8cc713491628147ee49017d03758127@www.losfolkloristas.com>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	<html xmlns="http://www.w3.org/1999/xhtml">
+	<head></head>
+	<body>
+	<table>
+		<tr><td style="padding-right:30px; font-weight:bold;">Name</td><td>Héctor Arcos </td></tr>
+		<tr><td style="padding-right:30px; font-weight:bold;">Email</td><td>arpahector@gmail.com</td></tr>
+		<tr><td style="padding-right:30px; font-weight:bold;">Comment</td><td>Hola mi nombre es Hector Arcos, soy un gran admirador del trabajo de ustedes, también soy músico folklórico, pertenezco a un grupo de Xalapa veracruz que se llama Tlenhuicani, mi interés por escribir es por que hace un año formé un grupo de niños músicos los cuales están interpretando música folclórica de Mexico y Latinoamérica nuestro repertorio es poco todavía pero ahí la llevamos, el grupo de niños se llama Pilcuicani “niños cantores” y les he hablado mucho de los Folkloristas, los tenemos como referente de nuestro trabajo, mi pregunta es si en algún momento podríamos visitarlos o donde tocarán para que ellos los conozcan en persona. Saludos y excelente día </td></tr>
+	</table>
+	</body>
+	</html>
+
+
+--62EFA100F.1584034323/brunswick.dreamhost.com--

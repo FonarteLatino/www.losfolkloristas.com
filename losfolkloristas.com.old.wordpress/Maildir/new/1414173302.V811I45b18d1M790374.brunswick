@@ -1,0 +1,106 @@
+Return-Path: <>
+X-Original-To: folkusr_2014@brunswick.dreamhost.com
+Delivered-To: folkusr_2014@brunswick.dreamhost.com
+Received: from iad1-shared-relay1.dreamhost.com (iad1-shared-relay1.dreamhost.com [208.113.157.50])
+	by brunswick.dreamhost.com (Postfix) with ESMTP id BE7B12A05F4
+	for <folkusr_2014@brunswick.dreamhost.com>; Fri, 24 Oct 2014 10:55:02 -0700 (PDT)
+Received: by iad1-shared-relay1.dreamhost.com (Postfix)
+	id 70EA6B40062; Fri, 24 Oct 2014 10:49:50 -0700 (PDT)
+Date: Fri, 24 Oct 2014 10:49:50 -0700 (PDT)
+From: MAILER-DAEMON@iad1-shared-relay1.dreamhost.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: folkusr_2014@brunswick.dreamhost.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="6615AB400E6.1414172990/iad1-shared-relay1.dreamhost.com"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20141024174950.70EA6B40062@iad1-shared-relay1.dreamhost.com>
+
+This is a MIME-encapsulated message.
+
+--6615AB400E6.1414172990/iad1-shared-relay1.dreamhost.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host iad1-shared-relay1.dreamhost.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our 
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+		DreamHost Email Support
+
+<email@address.com>: host spam04.affinitypath.com[216.129.105.34] said: 550
+    Blocked (in reply to RCPT TO command)
+
+--6615AB400E6.1414172990/iad1-shared-relay1.dreamhost.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; iad1-shared-relay1.dreamhost.com
+X-Postfix-Queue-ID: 6615AB400E6
+X-Postfix-Sender: rfc822; folkusr_2014@brunswick.dreamhost.com
+Arrival-Date: Fri, 24 Oct 2014 10:49:48 -0700 (PDT)
+
+Final-Recipient: rfc822; email@address.com
+Original-Recipient: rfc822;email@address.com
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; spam04.affinitypath.com
+Diagnostic-Code: smtp; 550 Blocked
+
+--6615AB400E6.1414172990/iad1-shared-relay1.dreamhost.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <folkusr_2014@brunswick.dreamhost.com>
+Received: from brunswick.dreamhost.com (apache2-cabo.nash.dreamhost.com [208.113.153.215])
+	by iad1-shared-relay1.dreamhost.com (Postfix) with ESMTP id 6615AB400E6
+	for <email@address.com>; Fri, 24 Oct 2014 10:49:48 -0700 (PDT)
+Received: by brunswick.dreamhost.com (Postfix, from userid 14288913)
+	id 812732A09A0; Fri, 24 Oct 2014 10:55:00 -0700 (PDT)
+To: John Doe <email@address.com>
+Subject: Message from stefano ghisolfi - Contact Form
+X-PHP-Originating-Script: 14288913:class-phpmailer.php
+Date: Fri, 24 Oct 2014 17:55:00 +0000
+From: stefano ghisolfi <stefano_ghisolfi@alice.it>
+Message-ID: <68e7d8f149c6e9c3d2da87c7d53cdbbe@www.losfolkloristas.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	<html xmlns="http://www.w3.org/1999/xhtml">
+	<head></head>
+	<body>
+	<table>
+		<tr><td style="padding-right:30px; font-weight:bold;">Name</td><td>stefano ghisolfi</td></tr>
+		<tr><td style="padding-right:30px; font-weight:bold;">Email</td><td>stefano_ghisolfi@alice.it</td></tr>
+		<tr><td style="padding-right:30px; font-weight:bold;">Comment</td><td>Hola estimados Maestros. Mi nombre es  Stefano, soy musico folclorico y luthier italiano que toca musica del folclor latinoamericano. Mi admiracion  para ustedes es muy grande!!<br />
+Me encanta todo vuestro repertorio. En particular estoy aprendendo a tocar el tema Tierra mestiza con guitarra y vihuela. Tambien me  gustaria recibir por vosostros informaciones  en respecto a la flauta bastante parecida al pinquillo. Es una dulzaina? que afinacion tiene?  me parace que tenga 7 agujeros adelante y uno detras... Me gustaria construir una flauta asì pero no conozco medidas y otra informaciones. Pueden ayudarme?<br />
+Muchas gracias anticipadas y disculpen por mi malo castellano!<br />
+</td></tr>
+	</table>
+	</body>
+	</html>
+
+
+--6615AB400E6.1414172990/iad1-shared-relay1.dreamhost.com--

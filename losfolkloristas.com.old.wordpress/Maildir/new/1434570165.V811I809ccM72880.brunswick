@@ -1,0 +1,109 @@
+Return-Path: <>
+X-Original-To: folkusr_2014@brunswick.dreamhost.com
+Delivered-To: folkusr_2014@brunswick.dreamhost.com
+Received: from iad1-shared-relay1.dreamhost.com (iad1-shared-relay1.dreamhost.com [208.113.157.50])
+	by brunswick.dreamhost.com (Postfix) with ESMTP id 0FD872E07AC
+	for <folkusr_2014@brunswick.dreamhost.com>; Wed, 17 Jun 2015 12:42:44 -0700 (PDT)
+Received: by iad1-shared-relay1.dreamhost.com (Postfix)
+	id C1983B4005C; Wed, 17 Jun 2015 12:42:44 -0700 (PDT)
+Date: Wed, 17 Jun 2015 12:42:44 -0700 (PDT)
+From: MAILER-DAEMON@iad1-shared-relay1.dreamhost.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: folkusr_2014@brunswick.dreamhost.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="B5F9EB4008D.1434570164/iad1-shared-relay1.dreamhost.com"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20150617194244.C1983B4005C@iad1-shared-relay1.dreamhost.com>
+
+This is a MIME-encapsulated message.
+
+--B5F9EB4008D.1434570164/iad1-shared-relay1.dreamhost.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host iad1-shared-relay1.dreamhost.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our 
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+		DreamHost Email Support
+
+<email@address.com>: host spam03.affinitypath.com[216.129.105.33] said: 550
+    Blocked (in reply to RCPT TO command)
+
+--B5F9EB4008D.1434570164/iad1-shared-relay1.dreamhost.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; iad1-shared-relay1.dreamhost.com
+X-Postfix-Queue-ID: B5F9EB4008D
+X-Postfix-Sender: rfc822; folkusr_2014@brunswick.dreamhost.com
+Arrival-Date: Wed, 17 Jun 2015 12:42:21 -0700 (PDT)
+
+Final-Recipient: rfc822; email@address.com
+Original-Recipient: rfc822;email@address.com
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; spam03.affinitypath.com
+Diagnostic-Code: smtp; 550 Blocked
+
+--B5F9EB4008D.1434570164/iad1-shared-relay1.dreamhost.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <folkusr_2014@brunswick.dreamhost.com>
+Received: from brunswick.dreamhost.com (apache2-cabo.nash.dreamhost.com [208.113.153.215])
+	by iad1-shared-relay1.dreamhost.com (Postfix) with ESMTP id B5F9EB4008D
+	for <email@address.com>; Wed, 17 Jun 2015 12:42:21 -0700 (PDT)
+Received: by brunswick.dreamhost.com (Postfix, from userid 14288913)
+	id 9F4F62E07B3; Wed, 17 Jun 2015 12:42:21 -0700 (PDT)
+To: John Doe <email@address.com>
+Subject: =?iso-8859-1?Q?Message_from_Karen_Gonz=C3=A1lez_-_Contact_Form?=
+X-PHP-Originating-Script: 14288913:class-phpmailer.php
+Date: Wed, 17 Jun 2015 19:42:21 +0000
+From: =?iso-8859-1?Q?Karen_Gonz=C3=A1lez?= <karentay_glezvera@hotmail.com>
+Message-ID: <cb2320600e86361d5b1f412ca3607847@www.losfolkloristas.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	<html xmlns="http://www.w3.org/1999/xhtml">
+	<head></head>
+	<body>
+	<table>
+		<tr><td style="padding-right:30px; font-weight:bold;">Name</td><td>Karen González</td></tr>
+		<tr><td style="padding-right:30px; font-weight:bold;">Email</td><td>karentay_glezvera@hotmail.com</td></tr>
+		<tr><td style="padding-right:30px; font-weight:bold;">Comment</td><td>Buenas tardes, soy Karen González del área de prensa de la Secretaría de Cutura, nos gustaría saber acerca del repertorio musical que interpretarán el próximo domingo 21 en con concierto para niños.<br />
+<br />
+Así mismo, se elaborará un boletín para invitar al público.<br />
+<br />
+Muchas gracias por su atención.<br />
+<br />
+Saludos.</td></tr>
+	</table>
+	</body>
+	</html>
+
+
+--B5F9EB4008D.1434570164/iad1-shared-relay1.dreamhost.com--

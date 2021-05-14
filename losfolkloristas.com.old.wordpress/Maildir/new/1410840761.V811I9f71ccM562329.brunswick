@@ -1,0 +1,98 @@
+Return-Path: <>
+X-Original-To: folkusr_2014@brunswick.dreamhost.com
+Delivered-To: folkusr_2014@brunswick.dreamhost.com
+Received: by brunswick.dreamhost.com (Postfix)
+	id 87B882A01DD; Mon, 15 Sep 2014 21:12:41 -0700 (PDT)
+Date: Mon, 15 Sep 2014 21:12:41 -0700 (PDT)
+From: MAILER-DAEMON@brunswick.dreamhost.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: folkusr_2014@brunswick.dreamhost.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="7F4102A01D9.1410840761/brunswick.dreamhost.com"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20140916041241.87B882A01DD@brunswick.dreamhost.com>
+
+This is a MIME-encapsulated message.
+
+--7F4102A01D9.1410840761/brunswick.dreamhost.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host brunswick.dreamhost.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our 
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+		DreamHost Email Support
+
+<email@address.com>: host iad1-shared-relay1.dreamhost.com[208.113.157.50]
+    said: 550 5.7.1 Sender domain not allowed. Please read:
+    http://dhurl.org/20b (in reply to end of DATA command)
+
+--7F4102A01D9.1410840761/brunswick.dreamhost.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; brunswick.dreamhost.com
+X-Postfix-Queue-ID: 7F4102A01D9
+X-Postfix-Sender: rfc822; folkusr_2014@brunswick.dreamhost.com
+Arrival-Date: Mon, 15 Sep 2014 21:12:41 -0700 (PDT)
+
+Final-Recipient: rfc822; email@address.com
+Action: failed
+Status: 5.7.1
+Remote-MTA: dns; iad1-shared-relay1.dreamhost.com
+Diagnostic-Code: smtp; 550 5.7.1 Sender domain not allowed. Please read:
+    http://dhurl.org/20b
+
+--7F4102A01D9.1410840761/brunswick.dreamhost.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <folkusr_2014@brunswick.dreamhost.com>
+Received: by brunswick.dreamhost.com (Postfix, from userid 14288913)
+	id 7F4102A01D9; Mon, 15 Sep 2014 21:12:41 -0700 (PDT)
+To: John Doe <email@address.com>
+Subject: Message from sara coss rangel - Contact Form
+X-PHP-Originating-Script: 14288913:class-phpmailer.php
+Date: Tue, 16 Sep 2014 04:12:41 +0000
+From: sara coss rangel <saracossrangel@gmail.com>
+Message-ID: <c19fde5fde6f553d21c44bda2ee98128@www.losfolkloristas.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	<html xmlns="http://www.w3.org/1999/xhtml">
+	<head></head>
+	<body>
+	<table>
+		<tr><td style="padding-right:30px; font-weight:bold;">Name</td><td>sara coss rangel</td></tr>
+		<tr><td style="padding-right:30px; font-weight:bold;">Email</td><td>saracossrangel@gmail.com</td></tr>
+		<tr><td style="padding-right:30px; font-weight:bold;">Comment</td><td>Que gusto poder contactarlos ,agradecería  publiquen  fechas de presentaciones y lugares ,,gracias !!</td></tr>
+	</table>
+	</body>
+	</html>
+
+
+--7F4102A01D9.1410840761/brunswick.dreamhost.com--

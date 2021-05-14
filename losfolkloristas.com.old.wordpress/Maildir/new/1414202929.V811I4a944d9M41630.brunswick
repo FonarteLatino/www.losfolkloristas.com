@@ -1,0 +1,108 @@
+Return-Path: <>
+X-Original-To: folkusr_2014@brunswick.dreamhost.com
+Delivered-To: folkusr_2014@brunswick.dreamhost.com
+Received: from iad1-shared-relay1.dreamhost.com (iad1-shared-relay1.dreamhost.com [208.113.157.50])
+	by brunswick.dreamhost.com (Postfix) with ESMTP id 000432A06E6
+	for <folkusr_2014@brunswick.dreamhost.com>; Fri, 24 Oct 2014 19:08:48 -0700 (PDT)
+Received: by iad1-shared-relay1.dreamhost.com (Postfix)
+	id 9122BB40090; Fri, 24 Oct 2014 19:03:35 -0700 (PDT)
+Date: Fri, 24 Oct 2014 19:03:35 -0700 (PDT)
+From: MAILER-DAEMON@iad1-shared-relay1.dreamhost.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: folkusr_2014@brunswick.dreamhost.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="DF007B40086.1414202615/iad1-shared-relay1.dreamhost.com"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20141025020335.9122BB40090@iad1-shared-relay1.dreamhost.com>
+
+This is a MIME-encapsulated message.
+
+--DF007B40086.1414202615/iad1-shared-relay1.dreamhost.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host iad1-shared-relay1.dreamhost.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our 
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+		DreamHost Email Support
+
+<email@address.com>: host spam04.affinitypath.com[216.129.105.34] said: 550
+    Blocked (in reply to RCPT TO command)
+
+--DF007B40086.1414202615/iad1-shared-relay1.dreamhost.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; iad1-shared-relay1.dreamhost.com
+X-Postfix-Queue-ID: DF007B40086
+X-Postfix-Sender: rfc822; folkusr_2014@brunswick.dreamhost.com
+Arrival-Date: Fri, 24 Oct 2014 19:03:12 -0700 (PDT)
+
+Final-Recipient: rfc822; email@address.com
+Original-Recipient: rfc822;email@address.com
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; spam04.affinitypath.com
+Diagnostic-Code: smtp; 550 Blocked
+
+--DF007B40086.1414202615/iad1-shared-relay1.dreamhost.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <folkusr_2014@brunswick.dreamhost.com>
+Received: from brunswick.dreamhost.com (apache2-cabo.nash.dreamhost.com [208.113.153.215])
+	by iad1-shared-relay1.dreamhost.com (Postfix) with ESMTP id DF007B40086
+	for <email@address.com>; Fri, 24 Oct 2014 19:03:12 -0700 (PDT)
+Received: by brunswick.dreamhost.com (Postfix, from userid 14288913)
+	id 2FF092A0BA5; Fri, 24 Oct 2014 19:08:26 -0700 (PDT)
+To: John Doe <email@address.com>
+Subject: Message from Alejandro Ramirez Tapia - Contact Form
+X-PHP-Originating-Script: 14288913:class-phpmailer.php
+Date: Sat, 25 Oct 2014 02:08:26 +0000
+From: Alejandro Ramirez Tapia <alex.tapia@hotmail.com>
+Message-ID: <9fea179679c0e9016a0a51b075283733@www.losfolkloristas.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	<html xmlns="http://www.w3.org/1999/xhtml">
+	<head></head>
+	<body>
+	<table>
+		<tr><td style="padding-right:30px; font-weight:bold;">Name</td><td>Alejandro Ramirez Tapia</td></tr>
+		<tr><td style="padding-right:30px; font-weight:bold;">Email</td><td>alex.tapia@hotmail.com</td></tr>
+		<tr><td style="padding-right:30px; font-weight:bold;">Comment</td><td>Muy buenas tardes.<br />
+Me encuentro interesado por el grupo lOS FOLKLORISTAS   para una posible presentación para el mes de junio del 2015 en San Luis Potosí. Festival  Internacional,  eventos totalmente gratuitos, el lujar pueda  varias este puede ser en lujar cerrado o espacio abierto.<br />
+Sería tan amable de mandar el Dossier, requerimientos técnicos, costo por presentación, personas que viajan.<br />
+En espera de su amable respuesta quedo a sus órdenes.<br />
+Alejandro Ramírez T.<br />
+</td></tr>
+	</table>
+	</body>
+	</html>
+
+
+--DF007B40086.1414202615/iad1-shared-relay1.dreamhost.com--

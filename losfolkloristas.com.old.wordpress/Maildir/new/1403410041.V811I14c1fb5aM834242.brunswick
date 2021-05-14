@@ -1,0 +1,102 @@
+Return-Path: <>
+X-Original-To: folkusr_2014@brunswick.dreamhost.com
+Delivered-To: folkusr_2014@brunswick.dreamhost.com
+Received: by brunswick.dreamhost.com (Postfix)
+	id BFD522A022C; Sat, 21 Jun 2014 21:07:21 -0700 (PDT)
+Date: Sat, 21 Jun 2014 21:07:21 -0700 (PDT)
+From: MAILER-DAEMON@brunswick.dreamhost.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: folkusr_2014@brunswick.dreamhost.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="A1B272A022B.1403410041/brunswick.dreamhost.com"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20140622040721.BFD522A022C@brunswick.dreamhost.com>
+
+This is a MIME-encapsulated message.
+
+--A1B272A022B.1403410041/brunswick.dreamhost.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host brunswick.dreamhost.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our 
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+		DreamHost Email Support
+
+<email@address.com>: host iad1-shared-relay1.dreamhost.com[208.113.157.50]
+    said: 550 5.7.1 Sender domain not allowed. Please read:
+    http://dhurl.org/20b (in reply to end of DATA command)
+
+--A1B272A022B.1403410041/brunswick.dreamhost.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; brunswick.dreamhost.com
+X-Postfix-Queue-ID: A1B272A022B
+X-Postfix-Sender: rfc822; folkusr_2014@brunswick.dreamhost.com
+Arrival-Date: Sat, 21 Jun 2014 21:07:21 -0700 (PDT)
+
+Final-Recipient: rfc822; email@address.com
+Action: failed
+Status: 5.7.1
+Remote-MTA: dns; iad1-shared-relay1.dreamhost.com
+Diagnostic-Code: smtp; 550 5.7.1 Sender domain not allowed. Please read:
+    http://dhurl.org/20b
+
+--A1B272A022B.1403410041/brunswick.dreamhost.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <folkusr_2014@brunswick.dreamhost.com>
+Received: by brunswick.dreamhost.com (Postfix, from userid 14288913)
+	id A1B272A022B; Sat, 21 Jun 2014 21:07:21 -0700 (PDT)
+To: John Doe <email@address.com>
+Subject: Message from Israel Barrios - Contact Form
+X-PHP-Originating-Script: 14288913:class-phpmailer.php
+Date: Sun, 22 Jun 2014 04:07:21 +0000
+From: Israel Barrios <isibv@yahoo.com.mx>
+Message-ID: <17d727dfeb0c5d68030d2340435a45f1@www.losfolkloristas.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	<html xmlns="http://www.w3.org/1999/xhtml">
+	<head></head>
+	<body>
+	<table>
+		<tr><td style="padding-right:30px; font-weight:bold;">Name</td><td>Israel Barrios</td></tr>
+		<tr><td style="padding-right:30px; font-weight:bold;">Email</td><td>isibv@yahoo.com.mx</td></tr>
+		<tr><td style="padding-right:30px; font-weight:bold;">Comment</td><td>Muy buenas noches<br />
+antes que nada un saludo a todos ustedes. soy parte de un grupo de música latinoamericana llamado \"Jarawi\" y tenemos pensado sacar la canción titulada \"el arrastradito\". sólo que en una de las estrofas no hemos podido interpretar lo que dice la letra. Sería de gran ayuda para nosotros si nos pudieran facilitar la letra de la canción ya que es un proyecto que tenemos desde hace varios meses y queremos concretarlo como homenaje a ustedes. <br />
+<br />
+de antemano muchas gracias<br />
+JARAWI</td></tr>
+	</table>
+	</body>
+	</html>
+
+
+--A1B272A022B.1403410041/brunswick.dreamhost.com--

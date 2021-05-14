@@ -1,0 +1,99 @@
+Return-Path: <>
+X-Original-To: folkusr_2014@brunswick.dreamhost.com
+Delivered-To: folkusr_2014@brunswick.dreamhost.com
+Received: by brunswick.dreamhost.com (Postfix)
+	id EBEA32E06F8; Fri,  6 Nov 2015 20:40:12 -0800 (PST)
+Date: Fri,  6 Nov 2015 20:40:12 -0800 (PST)
+From: MAILER-DAEMON@brunswick.dreamhost.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: folkusr_2014@brunswick.dreamhost.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="B97F92E054F.1446871212/brunswick.dreamhost.com"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20151107044012.EBEA32E06F8@brunswick.dreamhost.com>
+
+This is a MIME-encapsulated message.
+
+--B97F92E054F.1446871212/brunswick.dreamhost.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host brunswick.dreamhost.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+                DreamHost Email Support
+
+<email@address.com>: host iad1-shared-relay1.dreamhost.com[208.113.157.50]
+    said: 550 5.7.1 Sender domain not allowed. Please read:
+    http://dhurl.org/20b D21 (in reply to end of DATA command)
+
+--B97F92E054F.1446871212/brunswick.dreamhost.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; brunswick.dreamhost.com
+X-Postfix-Queue-ID: B97F92E054F
+X-Postfix-Sender: rfc822; folkusr_2014@brunswick.dreamhost.com
+Arrival-Date: Fri,  6 Nov 2015 20:40:12 -0800 (PST)
+
+Final-Recipient: rfc822; email@address.com
+Action: failed
+Status: 5.7.1
+Remote-MTA: dns; iad1-shared-relay1.dreamhost.com
+Diagnostic-Code: smtp; 550 5.7.1 Sender domain not allowed. Please read:
+    http://dhurl.org/20b D21
+
+--B97F92E054F.1446871212/brunswick.dreamhost.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <folkusr_2014@brunswick.dreamhost.com>
+Received: by brunswick.dreamhost.com (Postfix, from userid 14288913)
+	id B97F92E054F; Fri,  6 Nov 2015 20:40:12 -0800 (PST)
+To: John Doe <email@address.com>
+Subject: Message from Ayari - Contact Form
+X-PHP-Originating-Script: 14288913:class-phpmailer.php
+Date: Sat, 7 Nov 2015 04:40:12 +0000
+From: Ayari <ayaripasquier@gmail.com>
+Message-ID: <3ec83072c752f500a7bae029815e2ca8@www.losfolkloristas.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.10 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	<html xmlns="http://www.w3.org/1999/xhtml">
+	<head></head>
+	<body>
+	<table>
+		<tr><td style="padding-right:30px; font-weight:bold;">Name</td><td>Ayari</td></tr>
+		<tr><td style="padding-right:30px; font-weight:bold;">Email</td><td>ayaripasquier@gmail.com</td></tr>
+		<tr><td style="padding-right:30px; font-weight:bold;">Comment</td><td>Hola. Vi un anuncio que dicen tocarían mañana sábado 7 en la casa del Indio Fernández (Coyoacan), pero no se indica la hora del concierto y no encontré más información. Podría confirmarme si se dará este conierto y, en el caso, a qué hora será.<br />
+Gracias</td></tr>
+	</table>
+	</body>
+	</html>
+
+
+--B97F92E054F.1446871212/brunswick.dreamhost.com--

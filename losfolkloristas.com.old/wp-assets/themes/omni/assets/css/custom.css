@@ -1,0 +1,317 @@
+/*
+ *
+ * General Colors and Fonts
+ *
+ */
+body {
+	font-family: Roboto, sans-serif;
+	font-size: 13px;
+	line-height: 22px;
+	color: #8f8f8f;
+	font-weight: ;
+}
+.profile-text {
+	color: #8f8f8f;
+}
+h1, h2, h3, h4, h5, h6, .slogan {
+	font-family: Montserrat, sans-serif;
+	text-transform: ;
+	font-weight: ;
+	color: #fca766;
+}
+a {
+  color: #fca766;
+}
+a:hover,
+a:focus {
+  color: #393939;
+}
+
+.border-btn,
+.form-submit input[type="submit"],
+.filter ul li a,
+.social-btn {
+	font-family: Montserrat, sans-serif;
+	border: 1px solid #fca766;
+	text-transform: ;
+	color: #fca766;
+}
+.filter ul li a:hover,
+.filter ul li a:focus,
+.filter ul li.active a,
+.social-btn:hover,
+.social-btn:focus,
+.border-btn:hover, 
+.border-btn:focus,
+.form-submit input[type="submit"]:hover,
+.form-submit input[type="submit"]:focus {
+	background: #fca766;
+	border: 1px solid #fca766;
+	color: #fff;
+}
+
+/* Background Colors */
+.header-type {
+	background: #000000;
+	color: #8f8f8f;
+}
+.footer-type {
+	background: #000000;
+	color: #fff;
+}
+.header-type:before {
+   content: inherit;
+   display: none;
+   position: inherit;
+}
+.footer-type:before {
+   content: inherit;
+   display: none;
+   position: inherit;
+}
+.nav-container {
+	background: #000000;
+}
+.main-nav {
+	font-family: Montserrat, sans-serif;
+	background: #000000;
+}
+.service .front {
+	background: #231f20;
+}
+.price-package .name,
+.price-package .price {
+	font-family: Montserrat, sans-serif;
+}
+.price-package:hover .package-price {
+	background: #231f20;
+}
+.portfolio .item .back,
+.tiled-items .item .back {
+	background: rgba(148,16,11,0.85);
+}
+.portfolio .item-icons a:hover,
+.tiled-items .item-icons a:hover {
+	color: #231f20;
+}
+.main-nav li a{
+	color: #fff;
+}
+.nav > li > a:hover,
+.nav > li > a:focus,
+.nav > li.current-menu-item > a {
+	color: #393939;
+}
+
+.newsletter .news-title {
+	font-family: Montserrat, sans-serif;
+	background: #fca766;
+}
+.newsletter .news-title:after {
+	border-left-color: #fca766;
+}
+.newsletter .news-icon:hover {
+	color: #fca766;
+}
+
+.tweet-box .icon-twitter,
+.quote-box .icon-quote {
+	color: #fca766;
+}
+
+.rev_slider_wrapper .tparrows,
+.tiled-items .direction-nav a {
+	background-color: #fca766;
+}
+
+/* Sliders */
+.portfolio-slider .flex-direction-nav a,
+.item-media .flex-direction-nav a {
+    border-color: #8f8f8f;
+    background-color: #8f8f8f;
+}
+.portfolio-slider .flex-direction-nav [class^="icon-"],
+.portfolio-slider .flex-direction-nav [class*=" icon-"],
+.item-media .flex-direction-nav [class^="icon-"],
+.item-media .flex-direction-nav [class*=" icon-"]  {
+    color: #393939;
+}
+.portfolio-slider .flex-direction-nav a:hover [class^="icon-"],
+.portfolio-slider .flex-direction-nav a:hover [class*=" icon-"],
+.item-media .flex-direction-nav a:hover [class^="icon-"],
+.item-media .flex-direction-nav a:hover [class*=" icon-"] {
+    color: #ffffff;
+}
+.portfolio-slider:hover .flex-next:hover, 
+.portfolio-slider:hover .flex-prev:hover,
+.item-media:hover .flex-next:hover, 
+.item-media:hover .flex-prev:hover {
+    border-color: #231f20;
+    background-color: #231f20;
+}
+.portfolio-slider .flexslider .flex-next:focus, 
+.portfolio-slider .flexslider .flex-prev:focus,
+.item-media .flexslider .flex-next:focus, 
+.item-media .flexslider .flex-prev:focus {
+    border-color: #231f20;
+    background-color: #231f20;
+}
+
+/* Profile Carousels */
+.profile-carousel .flex-direction-nav a {
+    border-color: #8F8F8F;
+    background-color: #8F8F8F;
+}
+.profile-carousel .flex-direction-nav [class^="icon-"],
+.profile-carousel .flex-direction-nav [class*=" icon-"] {
+    color: #393939;
+}
+.profile-carousel:hover .flex-next:hover, 
+.profile-carousel:hover .flex-prev:hover {
+    border-color: #231f20;
+    background-color: #231f20;
+}
+.profile-carousel .flex-direction-nav a:hover [class^="icon-"],
+.profile-carousel .flex-direction-nav a:hover [class*=" icon-"] {
+    color: #ffffff;
+}
+.flex-control-paging li a {
+     background-color: #ffffff;
+}
+.flex-control-paging li a:hover {
+     background-color: #231f20;
+}
+.flex-control-paging li a.flex-active {
+     background-color: #231f20;
+}
+
+/* Clients Carousels */
+.clients .flex-direction-nav a {
+    border-color: #231f20;
+    background-color: ;
+}
+.clients .flex-direction-nav [class^="icon-"],
+.clients .flex-direction-nav [class*=" icon-"] {
+    color: #231f20;
+}
+.clients:hover .flex-next:hover, 
+.clients:hover .flex-prev:hover {
+    border-color: #231f20;
+    background-color: #231f20;
+}
+.clients .flex-direction-nav a:hover [class^="icon-"],
+.clients .flex-direction-nav a:hover [class*=" icon-"] {
+    color: #ffffff;
+}
+
+/*
+ *
+ * All Presets
+ *
+ */
+ 
+.page.green-bg {
+	background-color: #231f20;
+}
+.page.dark-bg {
+	background-color: #231f20;
+}
+.page.red-bg {
+	background-color: #231f20;
+}
+.page.blue-bg {
+	background-color: #231f20;
+}
+.page.grey-bg {
+	background-color: #231f20;
+}
+.page.lightgrey-bg {
+	background-color: #231f20;
+}
+
+/*
+ *
+ * Bottom Arrows
+ *
+ */
+.page.green-bg.bottom-arrow:after {
+	border-top-color: #231f20;
+}
+.page.dark-bg.bottom-arrow:after {
+	border-top-color: #231f20;
+}
+.page.red-bg.bottom-arrow:after {
+	border-top-color: #231f20;
+}
+.page.blue-bg.bottom-arrow:after {
+	border-top-color: #231f20;
+}
+.page.grey-bg.bottom-arrow:after {
+	border-top-color: #231f20;
+}
+.page.lightgrey-bg.bottom-arrow:after {
+	border-top-color: #231f20;
+}
+
+
+
+/*
+ *
+ * Font Colors
+ *
+ */
+/* green */
+.page.green-bg h1, .page.green-bg h2, .page.green-bg h3, .page.green-bg h4, .page.green-bg h5, .page.green-bg h6 {
+	color: #ffffff;
+}
+.page.green-bg {
+	color: #fff;
+}
+
+/* dark */
+.page.dark-bg h1, .page.dark-bg h2, .page.dark-bg h3, .page.dark-bg h4, .page.dark-bg h5, .page.dark-bg h6 {
+	color: #fff;
+}
+.page.dark-bg {
+	color: #fff;
+}
+
+/* red */
+.page.red-bg h1, .page.red-bg h2, .page.red-bg h3, .page.red-bg h4, .page.red-bg h5, .page.red-bg h6 {
+	color: #fff;
+}
+.page.red-bg {
+	color: #fff;
+}
+
+/* red */
+.page.blue-bg h1, .page.blue-bg h2, .page.blue-bg h3, .page.blue-bg h4, .page.blue-bg h5, .page.blue-bg h6 {
+	color: #fff;
+}
+.page.blue-bg {
+	color: #fff;
+}
+
+/* grey */
+.page.grey-bg h1, .page.grey-bg h2, .page.grey-bg h3, .page.grey-bg h4, .page.grey-bg h5, .page.grey-bg h6 {
+	color: #231f20;
+}
+.page.grey-bg {
+	color: #8f8f8f;
+}
+
+/* lightgrey */
+.page.lightgrey-bg h1, .page.lightgrey-bg h2, .page.lightgrey-bg h3, .page.lightgrey-bg h4, .page.lightgrey-bg h5, .page.lightgrey-bg h6 {
+	color: #231f20;
+}
+.page.lightgrey-bg {
+	color: #8f8f8f;
+}
+
+.page.blog-page p, .page.blog-page {
+	color: #8f8f8f;
+}
+
+.home-type.parallax-type {
+    position: static;
+}

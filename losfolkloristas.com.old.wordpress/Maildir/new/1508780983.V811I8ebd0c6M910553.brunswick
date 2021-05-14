@@ -1,0 +1,105 @@
+Return-Path: <>
+X-Original-To: folkusr_2014@brunswick.dreamhost.com
+Delivered-To: folkusr_2014@brunswick.dreamhost.com
+Received: from iad1-shared-relay2.dreamhost.com (iad1-shared-relay2.dreamhost.com [208.113.157.41])
+	by brunswick.dreamhost.com (Postfix) with ESMTP id D8DA52E0655
+	for <folkusr_2014@brunswick.dreamhost.com>; Mon, 23 Oct 2017 10:49:43 -0700 (PDT)
+Received: by iad1-shared-relay2.dreamhost.com (Postfix)
+	id C2B2E3463E7; Mon, 23 Oct 2017 10:49:43 -0700 (PDT)
+Date: Mon, 23 Oct 2017 10:49:43 -0700 (PDT)
+From: MAILER-DAEMON@iad1-shared-relay2.dreamhost.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: folkusr_2014@brunswick.dreamhost.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="BE0E63463F4.1508780983/iad1-shared-relay2.dreamhost.com"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20171023174943.C2B2E3463E7@iad1-shared-relay2.dreamhost.com>
+
+This is a MIME-encapsulated message.
+
+--BE0E63463F4.1508780983/iad1-shared-relay2.dreamhost.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host iad1-shared-relay2.dreamhost.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our 
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+		DreamHost Email Support
+
+<email@address.com>: Host or domain name not found. Name service error for
+    name=spam06.affinitypath.com type=A: Host not found
+
+--BE0E63463F4.1508780983/iad1-shared-relay2.dreamhost.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; iad1-shared-relay2.dreamhost.com
+X-Postfix-Queue-ID: BE0E63463F4
+X-Postfix-Sender: rfc822; folkusr_2014@brunswick.dreamhost.com
+Arrival-Date: Mon, 23 Oct 2017 10:49:43 -0700 (PDT)
+
+Final-Recipient: rfc822; email@address.com
+Original-Recipient: rfc822;email@address.com
+Action: failed
+Status: 5.4.4
+Diagnostic-Code: X-Postfix; Host or domain name not found. Name service error
+    for name=spam06.affinitypath.com type=A: Host not found
+
+--BE0E63463F4.1508780983/iad1-shared-relay2.dreamhost.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <folkusr_2014@brunswick.dreamhost.com>
+Received: from iad1-shared-relay1.dreamhost.com (iad1-shared-relay1.dreamhost.com [208.113.157.50])
+	by iad1-shared-relay2.dreamhost.com (Postfix) with ESMTP id BE0E63463F4
+	for <email@address.com>; Mon, 23 Oct 2017 10:49:43 -0700 (PDT)
+Received: from brunswick.dreamhost.com (brunswick.dreamhost.com [208.113.153.215])
+	by iad1-shared-relay1.dreamhost.com (Postfix) with ESMTP id 884A6B4011C
+	for <email@address.com>; Mon, 23 Oct 2017 10:49:43 -0700 (PDT)
+Received: by brunswick.dreamhost.com (Postfix, from userid 14288913)
+	id 415842E0904; Mon, 23 Oct 2017 10:49:43 -0700 (PDT)
+To: John Doe <email@address.com>
+Subject: Message from CESAR LEMUS - Contact Form
+X-PHP-Originating-Script: 14288913:class-phpmailer.php
+Date: Mon, 23 Oct 2017 17:49:43 +0000
+From: CESAR LEMUS <ceolemus@hotmail.com>
+Message-ID: <ac72508228b0873e239a3e8f99060ab1@www.losfolkloristas.com>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	<html xmlns="http://www.w3.org/1999/xhtml">
+	<head></head>
+	<body>
+	<table>
+		<tr><td style="padding-right:30px; font-weight:bold;">Name</td><td>CESAR LEMUS</td></tr>
+		<tr><td style="padding-right:30px; font-weight:bold;">Email</td><td>ceolemus@hotmail.com</td></tr>
+		<tr><td style="padding-right:30px; font-weight:bold;">Comment</td><td>Mi nombre es CESAR LEMUS, Soy parte de una fundación sin fines de lucro, estamos por celebrar nuestro primer aniversario en el monumento de la Revolucion, realizado con eventos culturales con representantes de diferentes Naciones, y nos seria gratificante que pudieran ustedes ser parte de este evento como representantes de Mexico,por nuestra gran admiración y trayectoria que tienen, nuestra fundación esta en www.fundacionayabs.org, ojala y pudieran indicarnos con quien dirigirnos para poder ponernos en contacto con ustedes y enviar un formato mas formal, dejo mi numero celular 5514588388</td></tr>
+	</table>
+	</body>
+	</html>
+
+
+--BE0E63463F4.1508780983/iad1-shared-relay2.dreamhost.com--

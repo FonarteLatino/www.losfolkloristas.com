@@ -1,0 +1,105 @@
+Return-Path: <>
+X-Original-To: folkusr_2014@brunswick.dreamhost.com
+Delivered-To: folkusr_2014@brunswick.dreamhost.com
+Received: from iad1-shared-relay2.dreamhost.com (iad1-shared-relay2.dreamhost.com [208.113.157.41])
+	by brunswick.dreamhost.com (Postfix) with ESMTP id 8406F2E054F
+	for <folkusr_2014@brunswick.dreamhost.com>; Thu,  6 Jul 2017 15:39:32 -0700 (PDT)
+Received: by iad1-shared-relay2.dreamhost.com (Postfix)
+	id 6E241282FFE; Thu,  6 Jul 2017 15:39:32 -0700 (PDT)
+Date: Thu,  6 Jul 2017 15:39:32 -0700 (PDT)
+From: MAILER-DAEMON@iad1-shared-relay2.dreamhost.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: folkusr_2014@brunswick.dreamhost.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="6B454282FE1.1499380772/iad1-shared-relay2.dreamhost.com"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20170706223932.6E241282FFE@iad1-shared-relay2.dreamhost.com>
+
+This is a MIME-encapsulated message.
+
+--6B454282FE1.1499380772/iad1-shared-relay2.dreamhost.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host iad1-shared-relay2.dreamhost.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our 
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+		DreamHost Email Support
+
+<email@address.com>: Host or domain name not found. Name service error for
+    name=spam07.affinitypath.com type=A: Host not found
+
+--6B454282FE1.1499380772/iad1-shared-relay2.dreamhost.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; iad1-shared-relay2.dreamhost.com
+X-Postfix-Queue-ID: 6B454282FE1
+X-Postfix-Sender: rfc822; folkusr_2014@brunswick.dreamhost.com
+Arrival-Date: Thu,  6 Jul 2017 15:39:32 -0700 (PDT)
+
+Final-Recipient: rfc822; email@address.com
+Original-Recipient: rfc822;email@address.com
+Action: failed
+Status: 5.4.4
+Diagnostic-Code: X-Postfix; Host or domain name not found. Name service error
+    for name=spam07.affinitypath.com type=A: Host not found
+
+--6B454282FE1.1499380772/iad1-shared-relay2.dreamhost.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <folkusr_2014@brunswick.dreamhost.com>
+Received: from iad1-shared-relay1.dreamhost.com (iad1-shared-relay1.dreamhost.com [208.113.157.50])
+	by iad1-shared-relay2.dreamhost.com (Postfix) with ESMTP id 6B454282FE1
+	for <email@address.com>; Thu,  6 Jul 2017 15:39:32 -0700 (PDT)
+Received: from brunswick.dreamhost.com (brunswick.dreamhost.com [208.113.153.215])
+	by iad1-shared-relay1.dreamhost.com (Postfix) with ESMTP id 29B9DB40075
+	for <email@address.com>; Thu,  6 Jul 2017 15:39:32 -0700 (PDT)
+Received: by brunswick.dreamhost.com (Postfix, from userid 14288913)
+	id BF1502E0655; Thu,  6 Jul 2017 15:39:31 -0700 (PDT)
+To: John Doe <email@address.com>
+Subject: =?iso-8859-1?Q?Message_from_MARIANO_DE_LA_CRUZ_M=C3=81RQUEZ_-_Contact_For?=  =?iso-8859-1?Q?m?=
+X-PHP-Originating-Script: 14288913:class-phpmailer.php
+Date: Thu, 6 Jul 2017 22:39:31 +0000
+From: =?iso-8859-1?Q?MARIANO_DE_LA_CRUZ_M=C3=81RQUEZ?= <marianoapaxcxm@hotmail.com>
+Message-ID: <43ce88df664684482b71116320fcd995@www.losfolkloristas.com>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	<html xmlns="http://www.w3.org/1999/xhtml">
+	<head></head>
+	<body>
+	<table>
+		<tr><td style="padding-right:30px; font-weight:bold;">Name</td><td>MARIANO DE LA CRUZ MÁRQUEZ</td></tr>
+		<tr><td style="padding-right:30px; font-weight:bold;">Email</td><td>marianoapaxcxm@hotmail.com</td></tr>
+		<tr><td style="padding-right:30px; font-weight:bold;">Comment</td><td>Soy Jefe de Planeación del Municipio de Zumpango, tengo como encargo realizar algunas actividades artísticas y culturales y me gustaría saber que debo hacer para que se lleve a cabo un evento con Los FOLKLORISTAS en nuestro Municipio.</td></tr>
+	</table>
+	</body>
+	</html>
+
+
+--6B454282FE1.1499380772/iad1-shared-relay2.dreamhost.com--

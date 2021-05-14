@@ -1,0 +1,103 @@
+Return-Path: <>
+X-Original-To: folkusr_2014@brunswick.dreamhost.com
+Delivered-To: folkusr_2014@brunswick.dreamhost.com
+Received: from iad1-shared-relay1.dreamhost.com (iad1-shared-relay1.dreamhost.com [208.113.157.50])
+	by brunswick.dreamhost.com (Postfix) with ESMTP id ED7F22E0436
+	for <folkusr_2014@brunswick.dreamhost.com>; Wed, 23 Dec 2015 16:02:07 -0800 (PST)
+Received: by iad1-shared-relay1.dreamhost.com (Postfix)
+	id C0B01B400BB; Wed, 23 Dec 2015 16:02:07 -0800 (PST)
+Date: Wed, 23 Dec 2015 16:02:07 -0800 (PST)
+From: MAILER-DAEMON@iad1-shared-relay1.dreamhost.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: folkusr_2014@brunswick.dreamhost.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="56A54B4007F.1450915327/iad1-shared-relay1.dreamhost.com"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20151224000207.C0B01B400BB@iad1-shared-relay1.dreamhost.com>
+
+This is a MIME-encapsulated message.
+
+--56A54B4007F.1450915327/iad1-shared-relay1.dreamhost.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host iad1-shared-relay1.dreamhost.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our 
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+		DreamHost Email Support
+
+<email@address.com>: host spam04.affinitypath.com[216.129.105.34] said: 550
+    Recipient email address rejected (in reply to RCPT TO command)
+
+--56A54B4007F.1450915327/iad1-shared-relay1.dreamhost.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; iad1-shared-relay1.dreamhost.com
+X-Postfix-Queue-ID: 56A54B4007F
+X-Postfix-Sender: rfc822; folkusr_2014@brunswick.dreamhost.com
+Arrival-Date: Wed, 23 Dec 2015 16:01:44 -0800 (PST)
+
+Final-Recipient: rfc822; email@address.com
+Original-Recipient: rfc822;email@address.com
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; spam04.affinitypath.com
+Diagnostic-Code: smtp; 550 Recipient email address rejected
+
+--56A54B4007F.1450915327/iad1-shared-relay1.dreamhost.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <folkusr_2014@brunswick.dreamhost.com>
+Received: from brunswick.dreamhost.com (apache2-cabo.nash.dreamhost.com [208.113.153.215])
+	by iad1-shared-relay1.dreamhost.com (Postfix) with ESMTP id 56A54B4007F
+	for <email@address.com>; Wed, 23 Dec 2015 16:01:44 -0800 (PST)
+Received: by brunswick.dreamhost.com (Postfix, from userid 14288913)
+	id 52B332E046A; Wed, 23 Dec 2015 16:01:44 -0800 (PST)
+To: John Doe <email@address.com>
+Subject: Message from bety - Contact Form
+X-PHP-Originating-Script: 14288913:class-phpmailer.php
+Date: Thu, 24 Dec 2015 00:01:44 +0000
+From: bety <bmtzhdez@hotmail.com>
+Message-ID: <7e869c9975b6dfccef745817441b3115@www.losfolkloristas.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.10 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	<html xmlns="http://www.w3.org/1999/xhtml">
+	<head></head>
+	<body>
+	<table>
+		<tr><td style="padding-right:30px; font-weight:bold;">Name</td><td>bety</td></tr>
+		<tr><td style="padding-right:30px; font-weight:bold;">Email</td><td>bmtzhdez@hotmail.com</td></tr>
+		<tr><td style="padding-right:30px; font-weight:bold;">Comment</td><td>soy su fan, les envío mis respetos, agradecimiento y admiración.</td></tr>
+	</table>
+	</body>
+	</html>
+
+
+--56A54B4007F.1450915327/iad1-shared-relay1.dreamhost.com--
