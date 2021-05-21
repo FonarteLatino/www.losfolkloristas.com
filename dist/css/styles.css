@@ -10459,9 +10459,10 @@ header.masthead .masthead-heading {
 
 section#contact {
   background-color: #212529;
-  background-image: url("../assets/img/latinoamerica.png");
+  background-image: url("../assets/img/06.jpg");
   background-repeat: no-repeat;
   background-position: center;
+  background-size: cover;
 }
 section#contact .section-heading {
   color: #fff;
